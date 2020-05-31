@@ -1,15 +1,13 @@
 [SddmGreeterTheme]
-Name=Chinese Painting
-Name[zh_CN]=清明上河图
-Description=Chinese style SDDM theme.
-Description[zh_CN]=清明上河图SDDM主题.
+Name=ArcoLinux
+Description=ArcoLinux SDDM theme.
 License=GPL3.0
 Type=sddm-theme
 Version=0.1
-Website=https://github.com/fralonra/sddm-chinese-painting-theme
+Website=https://github.com/arcolinux/arcolinux-sddm-theme
 Screenshot=screenshot.jpg
 MainScript=Main.qml
 ConfigFile=theme.conf
-Email=fralonra@aliyun.com
-Theme-Id=chinese-painting
+Email=erik.dubois@gmail.com
+Theme-Id=Learn, have fun and enjoy
 Theme-API=2.0
